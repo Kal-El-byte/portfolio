@@ -1,0 +1,27 @@
+ body{
+
+    font-family: rubik pixels;
+    background-color: aliceblue;
+    
+}
+
+.picture{
+    border-radius:60%;
+    height: 200px;
+    width: 200px;
+    border-radius:50%;
+
+    border:1px solid red;
+    padding:2px;
+    
+}
+
+
+.quote{
+    font-size: 12px;
+    margin:5px;
+    padding:10px;
+    border:5px dotted red;
+    border-radius:10px;
+    
+}
